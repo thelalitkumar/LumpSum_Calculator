@@ -1,0 +1,29 @@
+.bdd{
+    background: #fff;
+}
+.brdr{
+    height:2rem; 
+    width: 80%;
+    border: 1pt solid rgb(196, 187, 187); 
+    border-radius: 4px; 
+}
+.ques{
+    font-size: 1.1rem;
+    font-weight: 650;
+    padding-bottom: 1.04rem;
+}
+.heading{
+    font-size: 1.1rem;
+    font-weight: 550;
+    padding-bottom: 1.04rem;
+}
+.bcgToggle{
+    background-color: rgb(150, 154, 219) !important;
+}
+#worth{
+    border: 1.5pt solid #6fb0f8;
+    border-width: 2px;
+    border-radius: 1rem;
+    font-size: 20px;
+    background-color: #deeeff;
+}
